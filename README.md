@@ -49,12 +49,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shayan-malik&show_icons=true&theme=radical" alt="Shayan's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.demolab.com/api?username=shayan-malik&show_icons=true&theme=radical&cache_seconds=1800" alt="Shayan's GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shayan-malik&theme=radical" alt="Shayan's Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-malik&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=shayan-malik&layout=compact&theme=radical&cache_seconds=1800" alt="Top Langs" />
 </p>
 
 ---
