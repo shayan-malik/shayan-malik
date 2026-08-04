@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 🎓 Currently pursuing **MERN Stack Development** at SMIT (2025 - In Progress)
-- 💻 Skilled in **HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript (ES6), React JS & Next.js**
+- 💻 Skilled in **HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript (ES6), React JS, TypeScript & Next.js**
 - 🎨 Also comfortable with design tools like **Figma** and **Canva**
 - 🌱 Passionate about building responsive, user-friendly web applications
 - 📍 Based in Karachi, Pakistan
