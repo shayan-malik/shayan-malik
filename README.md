@@ -39,11 +39,10 @@
 
 | Project | Link |
 |---|---|
-| 🔐 Login User App | [Visit](https://login-user-2b797.web.app/login) |
-| 🛒 E-Commerce Product Catalog | [Visit](https://e-commerce-product-catal-e0003.web.app/) |
-| 💻 Web Hackathon Project | [Visit](https://shayan-malik.github.io/Web-hackathon/) |
-| 📘 Facebook Clone (Props Practice) | [Visit](https://fb-clone-props.vercel.app/) |
-| 🍲 Recipe API App | [Visit](https://recipe-api-nine-sigma.vercel.app/) |
+| 🔐 Avenzo - Full-Stack E-Commerce Web Application | [Visit](avenzo-plum.vercel.app) |
+| 🔐 SMX Creators - Agency Website | [Visit](smxcreators.com) |
+| 🔐 HCM Lite - AI-Assisted HR Management System | [Visit](hcm-lite-j1rp.vercel.app) |
+| 🔐 Social App - Facebook-Style Social Network | [Visit](login-user-2b797.web.app) |
 
 ---
 
